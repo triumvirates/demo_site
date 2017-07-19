@@ -1,0 +1,38 @@
+body{
+	margin: 0px;
+}
+#logo {
+    height: inherit;
+    background-color: blue;
+    width: 25%;
+}
+#header{
+	height: 80px;
+	width: 100%;
+    background-color: gainsboro;
+    position:fixed;
+}
+#banner-image{
+	height: 100vh;
+	background-color: #124;
+	background: url(banner_trial1.jpg) no-repeat center center fixed;
+	background-position-y: 80px; 
+	width: 100%;
+}
+#home{
+	height: 100vh;
+	background-color: #144;
+	background: url(images.jpg) no-repeat center center fixed;
+  	background-size: cover;
+}
+#about-us{
+	height: 100vh;
+	background-color: #1f4;
+	background: url(images1.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+#our-team
+{
+	height: 100vh;
+	background-color: #1a4;
+}
